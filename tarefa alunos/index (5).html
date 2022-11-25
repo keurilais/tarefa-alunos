@@ -1,0 +1,45 @@
+<html>
+    <head>
+
+        <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.6/firebase.js'></script>	
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">		
+    
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+    
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>  
+    
+        <script>
+          // Your web app's Firebase configuration
+          var firebaseConfig = {
+            apiKey: "AIzaSyAlSMtVOPJ7LM88AXLHCncOHIqOIQrGibw",
+            authDomain: "escola-4f3aa.firebaseapp.com",
+            databaseURL: "https://escola-4f3aa-default-rtdb.firebaseio.com",
+            projectId: "escola-4f3aa",
+            storageBucket: "escola-4f3aa.appspot.com",
+            messagingSenderId: "575754303946",
+            appId: "1:575754303946:web:1f0696516ff41ab235f733"
+            };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          firebase.analytics();
+        </script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="consulta.js"></script>
+
+    </head>
+
+    <body>
+        <table class="table table-grey table-striped-columns" id="tbalunos">
+            <tr>
+                <th> </th>
+                <th>Aluno</th>
+                <th>Telefone</th>
+                <th>IRA</th>
+            </tr>
+        </table>
+    </body>
+</html>

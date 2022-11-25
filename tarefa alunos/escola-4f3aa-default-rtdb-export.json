@@ -1,0 +1,274 @@
+{
+  "alunos": [
+    null,
+    {
+      "email": "maria@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "centro",
+        "n": 5
+      },
+      "ira": "6,5",
+      "nome": "Maria",
+      "telefone": 98865147835
+    },
+    {
+      "email": "joao@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "ponte nova",
+        "n": 9
+      },
+      "ira": 8,
+      "nome": "João",
+      "telefone": 8896547125
+    },
+    {
+      "email:": "gabriel@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "bairro de fatima",
+        "n": 10
+      },
+      "ira": 9.7,
+      "nome": "Gabriel",
+      "telefone": 8865741456
+    },
+    {
+      "email": "keuri@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "arvoredo",
+        "n": 0
+      },
+      "ira": 10,
+      "nome": "Keuri",
+      "telefone": 8574123695
+    },
+    {
+      "email": "natalia@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "sambra",
+        "n": 54
+      },
+      "ira": 8.5,
+      "nome": "Natalia",
+      "telefone": 2548653214
+    },
+    {
+      "email": "helen@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "ceac",
+        "n": 226
+      },
+      "ira": 9.7,
+      "nome": "Helen",
+      "telefone": 8899657412
+    },
+    {
+      "email": "gabi@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "bairro de fatima",
+        "n": 22
+      },
+      "ira": 10,
+      "nome": "Gaby",
+      "telefone:": 8896541232
+    },
+    {
+      "email": "getulio@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "ipueira",
+        "n": 98
+      },
+      "ira": 7.5,
+      "nome": "Getulio",
+      "telefone": 8896541235
+    },
+    {
+      "email": "sara@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "centro",
+        "n": 1
+      },
+      "ira": 8.7,
+      "nome": "Sarah",
+      "telefone": 8874563252
+    },
+    {
+      "email": "nilson@gmail.com",
+      "endereco": {
+        "cep": 63870000,
+        "log": "bairro de fatima",
+        "n": 8
+      },
+      "ira": 6,
+      "nome": "Nilson",
+      "telefone": 8896541235
+    }
+  ],
+  "cursos": [
+    null,
+    {
+      "id_disciplina": 1,
+      "id_professor": 1,
+      "nome": "engenharia da computacao"
+    },
+    {
+      "id_disciplina": 2,
+      "id_professor": 2,
+      "nome": "ciencia da computacao"
+    },
+    {
+      "id_disciplina": 3,
+      "id_professor": 3,
+      "nome": "historia"
+    },
+    {
+      "id_disciplina": 4,
+      "id_professor :": 4,
+      "nome": "nutricao"
+    },
+    {
+      "id_disciplina": 5,
+      "id_professor": 5,
+      "nome": "psicologia"
+    },
+    {
+      "id_disciplina": 6,
+      "id_professor": 6,
+      "nome": "jornalismo"
+    },
+    {
+      "id_disciplina": 7,
+      "id_professor": 7,
+      "nome": "pedagogia"
+    },
+    {
+      "id_disciplina": 8,
+      "id_professor": 8,
+      "nome": "rdes de computadores"
+    },
+    {
+      "id_disciplina": 9,
+      "id_professor": 9,
+      "nome": "agropecuaria"
+    },
+    {
+      "id_disciplina": 10,
+      "id_professor": 10,
+      "nome": "quimica"
+    }
+  ],
+  "disciplinas": [
+    null,
+    {
+      "ch": "80h",
+      "nome": "matematica"
+    },
+    {
+      "ch": "40h",
+      "nome": "filosofia"
+    },
+    {
+      "ch": "60h",
+      "nome": "portugues"
+    },
+    {
+      "ch": "20h",
+      "nome": "redacao"
+    },
+    {
+      "ch": "20h",
+      "nome": "ingles"
+    },
+    {
+      "ch": "40h",
+      "nome": "espanhol"
+    },
+    {
+      "ch": "80h",
+      "nome": "administracao"
+    },
+    {
+      "ch": "60h",
+      "nome": "educacao fisica"
+    },
+    {
+      "ch": "40h",
+      "nome": "historia"
+    },
+    {
+      "ch": "20h",
+      "nome": "sociologia"
+    }
+  ],
+  "professores": [
+    null,
+    {
+      "email": "simone@gmail.com",
+      "formacao": "engenharia de pesca",
+      "nome": "simone",
+      "telefone": 8865321478
+    },
+    {
+      "email": "gabriele@gmail.com",
+      "formacao": "estilista",
+      "nome": "gabriele",
+      "telefone": 8896541236
+    },
+    {
+      "email": "francisco@gmail.com",
+      "formacao": "administracao",
+      "nome": "francisco",
+      "telefone": 8896475213
+    },
+    {
+      "email": "paulo@gmail.com",
+      "formacao": "matematica",
+      "nome": "paulo",
+      "telefone": 8865471236
+    },
+    {
+      "email": "melissa@gmail.com",
+      "formacao": "geografia",
+      "nome": "Melissa",
+      "telefone": 8897452514
+    },
+    {
+      "email": "yara@gmail.com",
+      "formacao": "nutrição",
+      "nome": "yara",
+      "telefone": 8896541235
+    },
+    {
+      "email": "sabrina@gmail.com",
+      "formacao": "medicina",
+      "nome": "sabrina",
+      "telefone": 8896547812
+    },
+    {
+      "email": "sarah@gmail.com",
+      "formacao": "dentista",
+      "nome": "sarah",
+      "telefone": 8896547125
+    },
+    {
+      "email": "rafael@gmail.com",
+      "formacao": "matematica",
+      "nome": "rafael",
+      "telefone": 8854142535
+    },
+    {
+      "email": "kauane@gmail.com",
+      "formacao": "letras",
+      "nome": "kauane",
+      "telefone": 8896547123
+    }
+  ]
+}
